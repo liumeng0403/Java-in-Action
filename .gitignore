@@ -29,6 +29,8 @@ hs_err_pid*
 /Lombok/lombokDemo/target/
 
 /Dubbo/dubboXmlSimpleDemo/.idea/
-/Dubbo/dubboXmlSimpleDemo/target/
+/Dubbo/dubboXmlSimpleDemo/dubbo-api/target/
+/Dubbo/dubboXmlSimpleDemo/dubbo-consumer/target/
+/Dubbo/dubboXmlSimpleDemo/dubbo-provider/target/
 
 
